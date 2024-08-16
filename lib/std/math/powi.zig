@@ -8,7 +8,7 @@ const math = std.math;
 const assert = std.debug.assert;
 const testing = std.testing;
 
-/// Returns the power of x raised by the integer y (x^y).
+/// Returns x raised to the power of integer y (x^y).
 ///
 /// Errors:
 ///  - Overflow: Integer overflow or Infinity
